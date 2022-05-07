@@ -36,6 +36,7 @@ It's like [SQL](https://www.w3schools.com/sql/), but for non-developers. Here ar
      ```
 # Implementation process :round_pushpin:
 The implementation process consists of only three steps. This flow is for all cases.
+![Implementation process](../Images/implementation-process.png "Implementation process")
 ## Step :one: - Gathering data :bar_chart:
 It consists of gathering the information that will feed the personalization engine and **it is common to all the other steps**
 ## Step :two: - Defining a personalization strategy and goal :dart:
