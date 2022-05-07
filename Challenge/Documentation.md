@@ -1,6 +1,6 @@
 Powered by [Croct](https://croct.com/)
 
-[About Croct](Challenge/About.md)
+[About Croct](About.md)
 ### Sumary
 - [Introduction :speech_balloon:](#introduction-speech_balloon)
 - [Implementation process :round_pushpin:](#implementation-process-round_pushpin)
